@@ -1,5 +1,4 @@
-
-namespace Assign2
+﻿namespace Assign2
 {
     partial class Form2
     {
